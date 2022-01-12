@@ -1,2 +1,2 @@
 # fakecode
-You can visit https://downupz.github.io/fakecode to make fake code.
+You can visit https://banyuanjun1014.github.io/ZZ.github.io to make fake code.
